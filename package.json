@@ -1,0 +1,23 @@
+{
+  "name": "api-rest-restify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrayanArrieta/api-rest-restify.git"
+  },
+  "author": "Brayan Arrieta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrayanArrieta/api-rest-restify/issues"
+  },
+  "homepage": "https://github.com/BrayanArrieta/api-rest-restify#readme",
+  "dependencies": {
+    "restify": "^6.3.4"
+  }
+}
